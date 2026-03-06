@@ -1,2 +1,2 @@
 # PictureGallery
-Photos i want to share
+Photos i want to share & use elsewhere
